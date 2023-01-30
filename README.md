@@ -1,2 +1,2 @@
 # thisiswcag-beta
-https://canaxess.github.io/thisiswcag-beta/
+https://waako.github.io/thisiswcag-beta/
